@@ -1,0 +1,9 @@
+{
+    "full_name": "Seu Nome",
+    "email": "seu.email@example.com",
+    "github_username": "seu_github_username",
+    "project_name": "Meu Projeto Incrível",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_short_description": "Uma breve descrição do projeto.",
+    "version": "0.1.0"
+}
